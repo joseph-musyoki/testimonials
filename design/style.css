@@ -1,0 +1,10 @@
+
+*{
+    color: blue;
+}.container{
+    display: grid;
+    background-color: aqua;
+}
+.item{
+    background-color: brown;
+}
